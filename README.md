@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Coingecko Api
+
+In additon, I use coingecko api to get the real time information (name, price, percentage up/down in last 24h etc) about different cryptocurrencies:[Create React App](https://www.coingecko.com/en/api/documentation).
+ 
+## Application available at: 
+
+Application is deployed in vercel and is available at: [cryptocurrency-app-woad](https://cryptocurrency-app-woad.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
