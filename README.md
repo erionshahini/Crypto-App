@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Coingecko Api
 
-In additon, I use coingecko api to get the real time information (name, price, percentage up/down in last 24h etc) about different cryptocurrencies:[Create React App](https://www.coingecko.com/en/api/documentation).
+In additon, I use coingecko api to get the real time information (name, price, percentage up/down in last 24h etc) about different cryptocurrencies: [Coingecko Api docs](https://www.coingecko.com/en/api/documentation).
  
 ## Application available at: 
 
